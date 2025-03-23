@@ -1,0 +1,35 @@
+~$sertion generation - suggested architecture Schema.docx
+
+~WRL2955.tmp
+
+Sources/Assertion_Repository_Extractor/repositories/
+
+Sources/Assertion_Repository_Extractor/external_source_graph.csv
+
+Sources/Assertion_Repository_Extractor/statistics.json
+
+Sources/Assertion_Repository_Extractor/total_urls.ser
+
+Sources/Assertion_Repository_Extractor/filtered_urls.ser
+
+Sources/inputs.json
+
+Sources/Pipeline_v2_0/data/
+
+Sources/Pipeline_v2_0/python_scripts/models/user.txt
+
+Sources/Pipeline_v2_0/python_scripts/models/system.txt
+
+Sources/Pipeline_v2_0/python_scripts/models/*.txt
+
+Sources/Pipeline_v2_0/*.json
+
+Documents/report\ outputs/
+
+Documents/related_papers/
+
+Documents/Paper/
+
+Documents/compilation\ failed\ analysis/
+
+tatus
