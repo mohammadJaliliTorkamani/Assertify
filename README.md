@@ -20,3 +20,25 @@ Prof. Rahul Purandare
 
 
 Paper link: https://arxiv.org/abs/2411.16927 
+
+
+## How to run:
+We recommend using IntelliJ IDEA for running Java sub-projects (to efficiently resolve Maven dependencies used within the programs) and PyCharm for Python scripts.
+
+### Python libraries used:
+Torch
+Openai
+Transformers
+Evaluate
+Rouge_score
+Tiktoken
+
+### Java libraries used:
+JavaParser
+Selenium
+GSON
+JUnit
+Git
+Jsoup
+OpenCSV
+Slf4j
