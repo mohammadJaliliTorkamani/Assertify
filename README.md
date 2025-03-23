@@ -12,7 +12,7 @@ Paper link: https://arxiv.org/abs/2411.16927
 
 ### Authors:
 -------------------
-* Mohammad Jalili Torkamani (\*)
+* Mohammad Jalili Torkamani \*
 
 * Abhinav Sharma
 
